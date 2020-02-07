@@ -69,6 +69,7 @@
     <IpaIncludeArtwork>true</IpaIncludeArtwork>
     <IpaPackageName>higps</IpaPackageName>    
     <DotfuscatorXamarinEnabled>true</DotfuscatorXamarinEnabled>
+    <MtouchExtraArgs>-v -v -v -v</MtouchExtraArgs>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
